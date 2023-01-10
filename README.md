@@ -1,6 +1,8 @@
 # Exercício de Node.js
 <h1 align="center">:file_cabinet: Jogo da memoria</h1>
 
+<img align="center" title="Printscreen" src="https://github.com/ur4sh1/MemoryGame/blob/main/public/2023-01-09.png" />
+
 ## :memo: Descrição
 Execício de React<br>
 
